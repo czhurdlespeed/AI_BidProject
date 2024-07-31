@@ -1,1 +1,4 @@
-*.npy filter=lfs diff=lfs merge=lfs -text
+Data/X_train.npy filter=lfs diff=lfs merge=lfs -text
+Data/y_train.npy filter=lfs diff=lfs merge=lfs -text
+Data/y_test.npy filter=lfs diff=lfs merge=lfs -text
+Data/X_test.npy filter=lfs diff=lfs merge=lfs -text
