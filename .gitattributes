@@ -2,3 +2,8 @@ Data/X_train.npy filter=lfs diff=lfs merge=lfs -text
 Data/y_train.npy filter=lfs diff=lfs merge=lfs -text
 Data/y_test.npy filter=lfs diff=lfs merge=lfs -text
 Data/X_test.npy filter=lfs diff=lfs merge=lfs -text
+VAE_Data/X_test.npy filter=lfs diff=lfs merge=lfs -text
+VAE_Data/X_train.npy filter=lfs diff=lfs merge=lfs -text
+VAE_Data/y_test.npy filter=lfs diff=lfs merge=lfs -text
+VAE_Data/y_train.npy filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
